@@ -1,0 +1,8 @@
+*
+stdafx.h
+targetver.h
+!*.cpp
+!*.h
+!.gitignore
+
+!*/
